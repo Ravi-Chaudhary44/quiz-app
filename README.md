@@ -13,7 +13,4 @@ A simple **Quiz App** built using **HTML, CSS, and JavaScript**. It presents mul
 - **styles.css** → Styling for the quiz layout  
 - **script.js** → Quiz logic and functionality  
 
-## 💻 How to Use
-1. **Clone this repository**  
-   ```sh
-   git clone https://github.com/Ravi-Chaudhary44/quiz-app.git
+
